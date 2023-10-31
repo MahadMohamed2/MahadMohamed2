@@ -1,6 +1,6 @@
 👋 Hello, I'm Mahad Mohamed!
 
-🚀 I'm a results-driven professional currently undergoing software development training at the School of Code bootcamp. I have a proven track record in data analysis, business analysis. Currently, I'm honing my skills at the School of Code, where I'm diving deep into the world of software development, learning and applying languages such as [mention specific languages].
+🚀 I'm a results-driven professional currently undergoing software development training at the School of Code bootcamp. I have a proven track record in data analysis, business analysis. Within the School of Code Bootcamp, I'm diving deep into the world of software development, learning and applying languages such as JavaScript and exploring the world of API's, testing, SQL and further developing my Python knowledge in my personal time.
 
 🌐 My passion for digital transformation aligns seamlessly with my software development journey. I'm excited about using technology to drive innovation and create impactful solutions.
 
